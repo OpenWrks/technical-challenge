@@ -54,7 +54,7 @@ We have provided two APIs to allow you to get Netflix show data:
 
    **Sample Requests**
 
-   using cURL
+   Using cURL
 
    ```bash
    curl -X POST "https://netflix-auth.openwrks.com/connect/token" \
