@@ -19,14 +19,14 @@ We would like to see you build a Netflix Review Service API that has the followi
 
 - **Get shows**
 
-  - Shows are available via API
-  - Review ratings and descriptions (where they have been submitted) are returned with the show information
+  - Shows are available via an API.
+  - Review ratings and descriptions (where they have been submitted) are returned alongside the show information.
 
 - **Submit a review**
-  - A review can be submitted via API
-  - A review must contain a rating and a description
-    - The review rating is out of 5
-    - The review description must not be empty but must be smaller than 256 characters
+  - A review can be submitted via an API.
+  - A review must contain a rating and a description:
+    - The review rating is out of 5.
+    - The review description must not be empty but must be smaller than 256 characters.
 
 We have provided two APIs to allow you to get Netflix show data:
 
