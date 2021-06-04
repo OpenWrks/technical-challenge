@@ -8,27 +8,27 @@ For current open positions, see <https://openwrks.bamboohr.com/jobs/>
 
 ## About Our Challenge
 
-- ⏳ ~ We respect your time, and expect that you will have to make choices and tradeoffs for what is in scope for your chosen option.
-- 🛠 ~ If you want to impress us then we want to see a solution that is well designed, intuitive and tested.
-- 🧰 ~ You can use any language and tooling of your choice that your are most productive with. Our only requirements here is that your solution must be runnable on another computer.
-- 💾 ~ Your solution must be available for us to pull from a public or privately hosted repository.
+- ⏳ We respect your time, and expect that you'll have to make choices and tradeoffs for what's in scope for your chosen option
+- 🛠 We're looking for a solution that's well designed, intuitive and tested
+- 🧰 You can use any language and tooling of your choice. Our only requirement is that your solution must be runnable on another computer
+- 💾 Your solution must be available for us to pull from a public or privately hosted repository
 
 ### Option 1 - Build a Netflix Review Service 🛠
 
-We would like to see you build a Netflix Review Service API that has the following functionality:
+We'd like to see you build a Netflix Review Service API that has the following functionality:
 
 - **Get shows**
 
-  - Shows are available via an API.
-  - Review ratings and descriptions (where they have been submitted) are returned alongside the show information.
+  - Shows are available via an API
+  - Review ratings and descriptions (where they have been submitted) are returned alongside the show information
 
 - **Submit a review**
-  - A review can be submitted via an API.
+  - A review can be submitted via an API
   - A review must contain a rating and a description:
-    - The review rating is out of 5.
-    - The review description must not be empty but must be smaller than 256 characters.
+    - The review rating is out of 5
+    - The review description must not be empty but must be smaller than 256 characters
 
-We have provided two APIs to allow you to get Netflix show data:
+We've provided two APIs to allow you to get Netflix show data:
 
 1. **(OpenWrks) Netflix API**
 
@@ -76,9 +76,9 @@ We have provided two APIs to allow you to get Netflix show data:
 
 ### Option 2 - Show off something you’ve built before 👁️‍🗨️
 
-Whether it is an open-source contribution, side project, or something else you’re proud of; we’d love you to talk us through it.
+Whether it's an open-source contribution, side project, or something else you’re proud of, we’d love you to talk us through it.
 
-When choosing this option, please make sure that it shows off you to the best of your ability and also shows enough of your ability (something that is well designed, intuitive and tested).
+When choosing this option, please make sure that it shows you off to the best of your ability and fits the criteria we're looking for. We want to see something that's well designed, intuitive, and tested.
 
 ## Next Steps
 
@@ -95,4 +95,4 @@ This will include:
 
 ## Need Help?
 
-If you do get stuck or have any questions, please get in touch in the Slack group we have invited you to :)
+If you do get stuck or have any questions, please get in touch in the Slack group we have invited you to 😄
