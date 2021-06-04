@@ -1,10 +1,12 @@
 For current open positions, see <https://openwrks.bamboohr.com/jobs/>
 
----
+------------------
+
+LOGO HERE?
 
 # OpenWrks Technical Challenge
 
-## A few words about our challenge
+## About our challenge
 
 - ⏳ ~ We respect your time, and expect that you will have to make choices and tradeoffs for what is in scope for your chosen option.
 - 🛠 ~ If you want to impress us then we want to see a solution that is well designed, intuitive and tested.
@@ -12,8 +14,6 @@ For current open positions, see <https://openwrks.bamboohr.com/jobs/>
 - 💾 ~ Your solution must be available for us to pull from a public or privately hosted repository.
 
 ### Option 1 - Build a Netflix Review Service 🛠
-
----
 
 We would like to see you build a Netflix Review Service API that has the following functionality:
 
@@ -67,17 +67,18 @@ We have provided two APIs to allow you to get Netflix show data:
 
    Using [VS Code’s REST Client extension](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) (by Huachao Mao)
 
-   IMAGE HERE
+   ```http
+   POST https://netflix-auth.openwrks.com/connect/token
+   content-type: application/x-www-form-urlencoded
+   authorization: Basic applicant:g*8gdw24XX45gsawfDDcsza@e
+   grant_type=client_credentials&scope=netflix.shows.read
+   ```
 
 ### Option 2 - Show off something you’ve built before 👁️‍🗨️
-
----
 
 Whether it is an open-source contribution, side project, or something else you’re proud of; we’d love you to talk us through it.
 
 ## Next Steps
-
----
 
 Once you’ve completed and submitted your solution, we’ll schedule a video call to discuss what you’ve done.
 
@@ -91,7 +92,5 @@ This will include:
 - System monitoring and observability
 
 ## Need Help?
-
----
 
 If you do get stuck or have any questions, please get in touch in the Slack group we have invited you to :)
