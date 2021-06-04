@@ -6,7 +6,7 @@ LOGO HERE?
 
 # OpenWrks Technical Challenge
 
-## About our challenge
+## About Our Challenge
 
 - ⏳ ~ We respect your time, and expect that you will have to make choices and tradeoffs for what is in scope for your chosen option.
 - 🛠 ~ If you want to impress us then we want to see a solution that is well designed, intuitive and tested.
