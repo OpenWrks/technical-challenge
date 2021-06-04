@@ -78,6 +78,8 @@ We have provided two APIs to allow you to get Netflix show data:
 
 Whether it is an open-source contribution, side project, or something else you’re proud of; we’d love you to talk us through it.
 
+When choosing this option, please make sure that it shows off you to the best of your ability and also shows enough of your ability (something that is well designed, intuitive and tested).
+
 ## Next Steps
 
 Once you’ve completed and submitted your solution, we’ll schedule a video call to discuss what you’ve done.
