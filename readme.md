@@ -2,7 +2,8 @@ For current open positions, see <https://openwrks.bamboohr.com/jobs/>
 
 ------------------
 
-![welcome-logo](https://www.openwrks.com/assets/img/openwrks-logo_black.svg)
+<img src="https://www.openwrks.com/assets/img/openwrks-logo_black.svg" width="400">
+
 # OpenWrks Technical Challenge
 
 ## About Our Challenge
