@@ -1,6 +1,6 @@
 For current open positions, see <https://openwrks.bamboohr.com/jobs/>
 
-------------------
+---
 
 <img src="https://www.openwrks.com/assets/img/openwrks-logo_black.svg" width="400">
 
@@ -72,6 +72,8 @@ We've provided two APIs to allow you to get Netflix show data:
    content-type: application/x-www-form-urlencoded
    authorization: Basic applicant:g*8gdw24XX45gsawfDDcsza@e
    grant_type=client_credentials&scope=netflix.shows.read
+   ``
+   ❗ **NOTE:** While our Netflix API will provide you with show data, it will not provide you with review data or allow you to submit reviews. This is a feature your API will need to support.
    ```
 
 ### Option 2 - Show off something you’ve built before 👁️‍🗨️
