@@ -36,7 +36,7 @@ We've provided two APIs to allow you to get Netflix show data:
 
    - API Docs: https://netflix-app.openwrks.com/swagger
 
-   This API returns Netflix show data that you should base your Review Service on. The API schema is described in the API documentation, linked above.
+   This API returns paginated Netflix show data that you should base your Review Service on. The API schema is described in the documentation (Swagger) linked above.
 
    To access the API, your application will need to obtain a short-lived JSON Web Token (JWT) from the Netflix Auth Service, as described below.
 
