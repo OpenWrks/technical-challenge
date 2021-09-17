@@ -12,7 +12,7 @@ For current open positions, see <https://openwrks.bamboohr.com/jobs/>
 - 🛠 We're looking for a solution that's well designed, intuitive and tested
 - 🧰 You can use any language and tooling of your choice. Our only requirement is that your solution must be runnable on another computer
 - 💾 Your solution must be available for us to pull from a public or privately hosted repository
-- 📥 The technical challenge must be submitted to us by mid-day the day before your technical interview
+- 📥 The technical challenge must be submitted to us by mid-day the working day before your technical interview
 
 ### Option 1 - Build a Netflix Review Service 🛠
 
