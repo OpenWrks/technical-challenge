@@ -12,6 +12,7 @@ For current open positions, see <https://openwrks.bamboohr.com/jobs/>
 - 🛠 We're looking for a solution that's well designed, intuitive and tested
 - 🧰 You can use any language and tooling of your choice. Our only requirement is that your solution must be runnable on another computer
 - 💾 Your solution must be available for us to pull from a public or privately hosted repository
+- 📥 The technical challenge must be submitted to us by mid-day the working day before your technical interview
 
 ### Option 1 - Build a Netflix Review Service 🛠
 
@@ -36,7 +37,7 @@ We've provided two APIs to allow you to get Netflix show data:
 
    - API Docs: https://netflix-app.openwrks.com/swagger
 
-   This API returns Netflix show data that you should base your Review Service on. The API schema is described in the API documentation, linked above.
+   This API returns paginated Netflix show data that you should base your Review Service on. The API schema is described in the documentation (Swagger) linked above.
 
    To access the API, your application will need to obtain a short-lived JSON Web Token (JWT) from the Netflix Auth Service, as described below.
 
